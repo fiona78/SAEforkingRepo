@@ -13,4 +13,11 @@ Add your name below here:
 Now add a file with your name + .html
 
 Commit your changes and push them up to your repo
+
+Okay now add a tracking branch with your name and experimental
+
+Make a few commits on there and push the changes
+
 Now send me a pull request
+
+
